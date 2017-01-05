@@ -9,4 +9,4 @@ Este trabalho de conclusão do curso de graduação em Engenharia de Computaçã
 O sistema tem a intenção de substituir os pedais de efeito para guitarras, baixos ou mesmo vocais. Ele pode ser uma alternativa de baixo custo para aqueles que desejam personalizar e satisfazer vários efeitos em um único sistema. A aplicação é dedicada a computadores, construído com o Java Standard Edition, API Java Sound e API Swing.
 
 ## Note
-The GUI isn't works, but the Delay and Distortion algorithms are fine.
+The GUI does not work, but the Delay and Distortion algorithms are fine.
